@@ -1,1 +1,1 @@
-# python__program
+🛍️Sales analysis using pandas📘project overview this mini project demonstrates how to use pandas,numpy,and matplotlib to perform data analysis on a sales dataset,it covers data cleaning, manipulation, and visualization techniques ideal for beginners learning data analysis in python
